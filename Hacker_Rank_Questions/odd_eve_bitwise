@@ -1,0 +1,18 @@
+#include <stdio.h>
+void odd_eve(int num);
+int main()
+{
+    int numm;
+    scanf("%d",&numm);
+    odd_eve(numm);
+
+    return 0;
+}
+void odd_eve(int num){
+    if((num&1)==1){
+        printf("Odd\n");
+    }
+    else{
+        printf("Even\n");
+    }
+}
