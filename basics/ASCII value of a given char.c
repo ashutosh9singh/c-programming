@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h> //to use isdigit()
+#include <ctype.h> //to use isdigit() 
 
 int main()
 {
