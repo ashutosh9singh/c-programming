@@ -1,34 +1,35 @@
 # C Programming & Problem Solving
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://jsdelivr.net" width="32" height="32" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com" target="_blank">
-  <img src="https://jsdelivr.net" width="32" height="32" alt="GitHub" />
-</a>
+🔗 **Connect:** [LinkedIn](https://linkedin.com) • [GitHub](https://github.com)
 
-A structured collection of my C programming practice, core fundamentals, and competitive coding solutions from my 1st year.
+A structured collection of my C programming practice, core fundamentals, mini-projects, and competitive coding solutions from my 1st year.
 
 ## 📂 Repository Structure
 
-* **basics/** – Input/output, data types, and standard library header practice (`ctype.h`, etc.)
-* **operators & condition/** – Conditional logic, bitwise operations, and mathematical problems
-* **loops/** – Iterative logic, number theory, and series calculations
-* **pattern/** – Star, number, and geometric patterns (Pascal's triangle, pyramids, etc.)
-* **functions/** – Modular programming and recursion problems
-* **arrays/** – 1D/2D array manipulations, searching, and rotation algorithms
-* **Hacker_Rank_Questions/** – Solutions to C and logic challenges from HackerRank
+| Folder | Focus Area |
+| :--- | :--- |
+| `basics/` | Input/output, data types, and standard library headers (`ctype.h`, etc.) |
+| `operators & condition/` | Conditional logic, bitwise operations, and mathematical problems |
+| `loops/` | Iterative logic, number theory, and series calculations |
+| `pattern/` | Star, number, and geometric patterns (Pascal's triangle, pyramids, etc.) |
+| `functions/` | Modular programming and recursion problems |
+| `arrays/` | 1D/2D array manipulations, searching, and rotation algorithms |
+| `strings/` | Character arrays, string manipulation, and standard `<string.h>` functions |
+| `projects/` | Console-based mini-projects built using core C concepts |
+| `Hacker_Rank_Questions/` | Solutions to C and logic challenges from HackerRank |
+
+## 💻 Mini-Projects (`projects/`)
+* *(Add your C mini-projects here as you build them — e.g., Student Management System, Tic-Tac-Toe, or Number Guessing Game)*
 
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://jsdelivr.net" width="40" height="40" alt="C" />&nbsp;&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="C++" />&nbsp;&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="Python" />&nbsp;&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="VS Code" />&nbsp;&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="Git" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C` • `C++` • `Python` |
+| **Editor & Tools** | `VS Code` • `GCC` • `Git` • `GitHub` |
 
 ## 🎯 Current Focus
-* Mastering bitwise manipulation and pointers in C
+* Mastering strings, pointers, and memory management in C
+* Building console mini-projects to apply core C concepts
 * Transitioning into C++ (STL & DSA) and Python
 * Starting Web Development (HTML, CSS, JavaScript) soon
