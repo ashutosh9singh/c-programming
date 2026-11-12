@@ -1,7 +1,12 @@
 # C Programming & Problem Solving
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![GitHub](https://shields.io)](https://github.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://jsdelivr.net" width="32" height="32" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com" target="_blank">
+  <img src="https://jsdelivr.net" width="32" height="32" alt="GitHub" />
+</a>
 
 A structured collection of my C programming practice, core fundamentals, and competitive coding solutions from my 1st year.
 
@@ -17,12 +22,11 @@ A structured collection of my C programming practice, core fundamentals, and com
 
 ## 🛠️ Tech Stack & Tools
 
-![C](https://shields.io)
-![C++](https://shields.io)
-![Python](https://shields.io)
-![VS Code](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="C" />&nbsp;&nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="C++" />&nbsp;&nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="Git" />
 
 ## 🎯 Current Focus
 * Mastering bitwise manipulation and pointers in C
