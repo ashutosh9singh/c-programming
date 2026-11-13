@@ -18,16 +18,6 @@ A structured collection of my C programming practice, core fundamentals, mini-pr
 | `projects/` | Console-based mini-projects built using core C concepts |
 | `Hacker_Rank_Questions/` | Solutions to C and logic challenges from HackerRank |
 
-## 💻 Mini-Projects (`projects/`)
-* *(Add your C mini-projects here as you build them — e.g., Student Management System, Tic-Tac-Toe, or Number Guessing Game)*
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C` • `C++` • `Python` |
-| **Editor & Tools** | `VS Code` • `GCC` • `Git` • `GitHub` |
-
 ## 🎯 Current Focus
 * Mastering strings, pointers, and memory management in C
 * Building console mini-projects to apply core C concepts
