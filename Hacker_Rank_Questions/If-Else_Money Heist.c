@@ -5,7 +5,6 @@ void correction(int arr[]);
 int *create_array(int size);
 int main(){
     int sizee=10;
-    
     int *temp=create_array(sizee);
     correction(temp);
     
