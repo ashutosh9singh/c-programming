@@ -9,6 +9,7 @@ int main()
     return 0;
 }
 int power_of_two(int num){
+    //the number which is power of 2 is always of one set bit 
     if(num!=0 && (num&(num-1))==0){
         printf("Yes");
     }
